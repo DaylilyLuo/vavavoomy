@@ -1,1 +1,1 @@
-pru
+printf("Hello!")
